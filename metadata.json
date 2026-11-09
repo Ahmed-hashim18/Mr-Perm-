@@ -1,0 +1,6 @@
+{
+  "name": "Treasury & Cash Flow Manager",
+  "description": "Cash flow and treasury management app connected to Google Sheets via Google Apps Script with real-time balance tracking, transaction entry, and daily logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
